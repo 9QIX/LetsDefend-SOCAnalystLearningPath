@@ -12,6 +12,8 @@ If you can't access the logs from one place, then the same request (e.g., the go
 
 If you go to the “Log Management” page in LetsDefend, you will see various log sources such as Proxy, Exchange, and Firewall listed as “Type”. This means that all these log sources have been collected in one place and log output from sources like Proxy, FW, etc., can be seen with just one query.
 
+![alt text](./Images/image-4.png)
+
 ## Purpose of Log Management
 
 SOC analysts typically rely on Log Management to determine if there is any communication with a particular address and to view the details of that communication. Let's say you came across a piece of malware and after running it, you found that it was communicating with and executing commands from the "letsdefend.io" address. In this situation, the command and control center is "letsdefend.io". You can search for "letsdefend.io" in your company's log management to see if any devices have attempted to communicate with the command and control center.
