@@ -8,6 +8,8 @@ A Security Operation Center (SOC) is a facility where the information security t
 
 Depending on your security needs and budget, there are several types of SOCs:
 
+![alt text](./Images/image.png)
+
 ### In-house SOC
 
 This team is formed when an organization builds its cybersecurity team. Organizations considering an internal SOC should have a budget to support its continuity.
