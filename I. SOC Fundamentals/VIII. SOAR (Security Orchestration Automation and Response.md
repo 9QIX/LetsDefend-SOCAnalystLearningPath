@@ -40,11 +40,11 @@ In addition, these playbooks help ensure that the entire SOC team is on the same
 
 You can think of "Case Management" as the same as SOAR. On the SIEM (monitoring) page, you can open tickets for the cases you created. When you look at the page, the first thing you see is a list of open and closed cases.
 
-![Case Management](case_management_image_placeholder)
+![alt text](./Images/image-7.png)
 
 If you click on any open case, you will see an automatically assigned playbook. You can investigate the associated SIEM (monitoring) alert following this playbook.
 
-![Assigned Playbook](assigned_playbook_image_placeholder)
+![alt text](./Images/image-8.png)
 
 ## Conclusion
 
