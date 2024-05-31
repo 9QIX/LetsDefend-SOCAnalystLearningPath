@@ -11,7 +11,7 @@ SOAR stands for Security Orchestration Automation and Response. It enables secur
 
 The image below shows what can be achieved with a SOAR solution.
 
-![SOAR Solution](https://hawk-eye.io)
+![alt text](./Images/image-5.png)
 
 ## Benefits of SOAR
 
@@ -28,7 +28,7 @@ SOAR saves time with workflows that automate processes. Some common workflows ar
 
 It allows you to use different security tools in your environment (sandbox, log management, 3rd party tools, etc.) by providing an all-in-one software. These tools are integrated into the SOAR solution and can be used on the same platform.
 
-![SOAR Centralization](https://splunk.com)
+![alt text](./Images/image-6.png)
 
 ### Playbooks
 
