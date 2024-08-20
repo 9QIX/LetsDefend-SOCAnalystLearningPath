@@ -1,5 +1,5 @@
 # SOC Analyst Learning Path 📚🔍
-
+ 
 Welcome to the **SOC Analyst Learning Path** repository! This guide will help you develop the technical skills necessary for a career in Security Operations Center (SOC) analysis.
  
 ## 📘 Courses
